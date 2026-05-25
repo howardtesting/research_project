@@ -1,0 +1,6 @@
+*.csv
+*.parquet
+data/
+models/
+venv/
+.env
